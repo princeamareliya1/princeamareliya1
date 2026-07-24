@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi there, I'm Prince 👋
 
-<!--
-**princeamareliya1/princeamareliya1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A passionate Computer Science & Engineering student who loves building responsive web applications and diving into technical development.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```javascript
+const developer = {
+    name: "Prince Amareliya",
+    role: "Software Developer",
+    education: "B.Tech in Computer Science & Engineering",
+    
+    skills: [
+        "Frontend Development",
+        "Bootstrap 5 & Responsive Design",
+        "C / Python Programming",
+        "Hardware & Embedded Systems"
+    ],
+    
+    currentlyLearning: [
+        "Advanced Web Development",
+        "AI & ML"
+    ]
+};
