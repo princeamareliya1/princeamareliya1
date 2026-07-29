@@ -161,7 +161,7 @@ A full-stack MERN application for tracking daily income and expenses.
 
 <br>
 
-<a href="https://github.com/ajscodes/Expense-Tracker-App">
+<a href="https://github.com/princeamareliya1">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
@@ -185,7 +185,7 @@ Deep Learning web application for stock price forecasting using LSTM.
 <img src="https://img.shields.io/badge/Live_Demo-00C853?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
-<a href="https://github.com/ajscodes/StockPredictAI">
+<a href="https://github.com/princeamareliya1">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
