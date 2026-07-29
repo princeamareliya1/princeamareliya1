@@ -213,7 +213,7 @@ Machine Learning web application that predicts heart disease using multiple clas
 <img src="https://img.shields.io/badge/Live_Demo-00C853?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
-<a href="https://github.com/ajscodes/Heart-Disease-Prediction-Using-Machine-Learning">
+<a href="https://github.com/princeamareliya1">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
