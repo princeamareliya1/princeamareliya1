@@ -137,7 +137,7 @@ Meeting management system with scheduling, attendance tracking, and authenticati
 
 <br>
 
-<a href="https://github.com/ajscodes/Minutes-of-Meeting-Management">
+<a href="https://github.com/princeamareliya1">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
