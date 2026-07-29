@@ -25,7 +25,7 @@
 ```dart
 class Developer {
 
-  final String name = "Prince Amareliya";
+  final String name = "Prince Amreliya";
 
   final String role = "Software Developer";
 
