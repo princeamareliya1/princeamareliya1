@@ -275,7 +275,7 @@ Machine Learning web application that predicts heart disease using multiple clas
 
 ### 👀 Profile Visitors
 
-<img src="https://komarev.com/ghpvc/?username=ajscodes&label=Profile%20Views&color=6C63FF&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=princeamareliya1&label=Profile%20Views&color=6C63FF&style=for-the-badge"/>
 
 <br><br>
 
