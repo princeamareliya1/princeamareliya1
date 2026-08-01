@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FB,50:005BEA,100:6C63FF&height=220&section=header&text=Prince%20Amreliya&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Flutter%20%7C%20ASP.NET%20%7C%20Full%20Stack%20%7C%20AI%20&descAlignY=60&descSize=18"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FB,50:005BEA,100:6C63FF&height=220&section=header&text=Prince%20Amreliya&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Flutter%20%7C%20ASP.NET%20%7C%20Full%20Stack%20%7C%20AI%20%7C%20ML%20&descAlignY=60&descSize=18"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=00BFFF&center=true&vCenter=true&width=750&lines=Software+Developer)](https://git.io/typing-svg)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=00BFFF&center=true&vCenter=true&width=750&lines=Hey!+I'm+Software+Developer)
 
 </div>
 
