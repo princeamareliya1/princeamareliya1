@@ -99,9 +99,9 @@ class Developer {
 
 ---
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=princeamareliya1&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=princeamareliya1&layout=compact&theme=radical" />
+  <p align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=princeamareliya1&theme=algolia&no-frame=true&margin-w=15"/>
+  </p>
   <br/>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=princeamareliya1&theme=react-dark" />
 </p>
