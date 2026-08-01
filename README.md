@@ -99,10 +99,6 @@ class Developer {
 
 ---
 <p align="center">
-  <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=princeamareliya1&theme=algolia&no-frame=true&margin-w=15"/>
-  </p>
-  <br/>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=princeamareliya1&theme=react-dark" />
 </p>
 
