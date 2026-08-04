@@ -97,11 +97,6 @@ class Developer {
 <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,postman&theme=dark"/>
 </p>
 
----
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=princeamareliya1&theme=react-dark" />
-</p>
-
 ## 🚀 Projects
 
 <table>
