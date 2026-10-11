@@ -96,141 +96,6 @@ class Developer {
 <p align="center">
 <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,postman&theme=dark"/>
 </p>
-
-## 🚀 Projects
-
-<table>
-<tr>
-
-<td width="50%" valign="top">
-
-### 🚗 My Auto
-
-A Flutter application for managing vehicle expenses, insurance, PUC, service reminders, and multiple vehicles.
-
-**Tech Stack**
-
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite)
-![GetX](https://img.shields.io/badge/GetX-8A2BE2?style=flat-square)
-
-🚧 **Status:** Currently in Testing
-
-📱 **Google Play Store Release Coming Soon**
-
-</td>
-
-<td width="50%" valign="top">
-
-### 📋 Minutes of Meeting
-
-Meeting management system with scheduling, attendance tracking, and authentication.
-
-**Tech Stack**
-
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=.net)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square)
-
-<br>
-
-<a href="https://github.com/princeamareliya1">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-### 💰 Expense Tracker
-
-A full-stack MERN application for tracking daily income and expenses.
-
-**Tech Stack**
-
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb)
-
-<br>
-
-<a href="https://github.com/princeamareliya1">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</td>
-
-<td width="50%" valign="top">
-
-### 📈 StockPredictAI
-
-Deep Learning web application for stock price forecasting using LSTM.
-
-**Tech Stack**
-
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi)
-
-<br>
-
-<a href="https://stock-price-forecaster.vercel.app/">
-<img src="https://img.shields.io/badge/Live_Demo-00C853?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
-<a href="https://github.com/princeamareliya1">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td colspan="2" valign="top">
-
-### ❤️ Heart Disease Prediction
-
-Machine Learning web application that predicts heart disease using multiple classification models.
-
-**Tech Stack**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js)
-
-<br>
-
-<a href="https://heart-disease-prediction-using-mach.vercel.app/">
-<img src="https://img.shields.io/badge/Live_Demo-00C853?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
-<a href="https://github.com/princeamareliya1">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</td>
-
-</tr>
-
-</table>
-
----
-
-## 🏆 Certifications
-
-- 🎓 Blockchain and its Applications — **NPTEL**
-- 🎓 Data Structures & Algorithms using Java — **NPTEL**
-- 🎓 Business Intelligence & Analytics — **NPTEL**
-
----
-
 ## 🌱 Currently Exploring
 
 - 📱 Flutter Development
@@ -249,11 +114,10 @@ Machine Learning web application that predicts heart disease using multiple clas
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<!--
-    <a href="https://linkedin.com/in">
+<p>
+    <a href="www.linkedin.com/in/prince-amareliya-848723379">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>.
     </a>
--->
 
 </p>
 
