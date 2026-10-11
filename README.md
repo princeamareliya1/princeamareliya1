@@ -96,6 +96,7 @@ class Developer {
 <p align="center">
 <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,postman&theme=dark"/>
 </p>
+---
 ## 🌱 Currently Exploring
 
 - 📱 Flutter Development
