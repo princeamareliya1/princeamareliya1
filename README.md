@@ -132,6 +132,17 @@ class Developer {
 
 ---
 
+## 🚀 Featured Work
+
+| Project | Description | Tech Stack | Link |
+| :--- | :--- | :--- | :---: |
+| **AI Chatbot** | Full-stack AI conversational assistant with streaming responses. | Next.js, TypeScript, AI SDK | [Explore](https://github.com/princeamareliya1/chatbot) |
+| **React Web Projects** | Responsive static UI and dynamic component showcase. | React, JavaScript, CSS3 | [Explore](https://github.com/princeamareliya1/react-web-projects) |
+| **C Practice & Patterns** | 100+ algorithmic exercises, HackerRank solutions, and recursion. | C, Algorithms | [Explore](https://github.com/princeamareliya1/C-Programming) |
+| **SQL Practical Submissions**| Advanced queries, joins, procedures, triggers, and schema design. | MS SQL Server, T-SQL | [Explore](https://github.com/princeamareliya1/SQL-Programming) |
+
+---
+
 ## 📊 GitHub Analytics
 
 <div align="center">
