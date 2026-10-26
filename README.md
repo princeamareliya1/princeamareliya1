@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FB,50:005BEA,100:6C63FF&height=220&section=header&text=Prince%20Amreliya&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Flutter%20%7C%20ASP.NET%20%7C%20Full%20Stack%20%7C%20AI%20%7C%20ML%20&descAlignY=60&descSize=18"/>
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=00BFFF&center=true&vCenter=true&width=750&lines=Hey!+I'm+Software+Developer)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=00BFFF&center=true&vCenter=true&width=750&lines=Hey!+I'm+a+Software+Developer;Building+Scalable+Web+%26+Mobile+Apps;Passionate+about+Clean+Architecture)
 
 </div>
 
@@ -129,6 +129,17 @@ class Developer {
 > **"Great software isn't just written—it's thoughtfully designed, carefully built, and continuously improved."**
 
 </div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=princeamareliya1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=princeamareliya1&layout=compact&theme=tokyonight&hide_border=true" width="46%" />
+</div>
+
+<br>
 
 ---
 
